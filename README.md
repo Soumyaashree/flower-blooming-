@@ -6,7 +6,7 @@ markdown
 
 A beautiful animated flower created with HTML, CSS and JavaScript.
 
-![Flower Animation Preview](flowerblooming.mp4) 
+![Flower Animation Preview](flower blooming.mp4) 
 
 ## How to View
 1. Download all files
